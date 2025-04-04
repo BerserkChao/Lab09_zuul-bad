@@ -112,8 +112,7 @@ public class Room
             exits.put("west",west);
         }
     }
-//public void setExits
-    
+//public void setExits meow
     /**
      * @return The description of the room.
      */
