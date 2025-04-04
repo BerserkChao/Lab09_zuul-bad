@@ -59,7 +59,7 @@ public class Game
 
         currentRoom = outside;  // start game outside
     }
-
+//meow
     /**
      *  Main play routine.  Loops until end of play.
      */
